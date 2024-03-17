@@ -1,23 +1,23 @@
-Copyright (c) 2013, Yann Collet
-All rights reserved.
+کپی رایت (c) 2013، یان کولت
+همه حقوق ها حفظ شده بودند.
 
-Redistribution and use in source and binary forms, with or without modification,
-are permitted provided that the following conditions are met:
+کاهش و استفاده در فرم های منبع و دودویی، با یا بدون تغییر،
+به شرط اینکه شرایط زیر برآورده شود، مجاز است:
 
-* Redistributions of source code must retain the above copyright notice, this
-  list of conditions and the following disclaimer.
+* ردیسترسترهای کد منبع باید اعلان کپی رایت بالا را حفظ کند
+            فهرست شرایط و شرح زیر.            
 
-* Redistributions in binary form must reproduce the above copyright notice, this
-  list of conditions and the following disclaimer in the documentation and/or
-  other materials provided with the distribution.
+* ردیستروبها در شکل دودویی باید اعلان کپی رایت بالا را تولید کنند
+          فهرست شرایط و شرح زیر در مستندها و/یا          
+          مواد دیگر که در توزیع وجود دارند.          
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
-ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
-WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR
-ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
-(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
-LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
-ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
-SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+این نرم افزار توسط دارندگان کپی رایت و شرکت کنندگان "همان طور که هست" ارائه می شود.
+هر گونه حکم یا یا یا به معنی، از جمله، اما محدود به آن ها نبود
+حکم های مربوط به تجارت و تناسب اندام برای یک هدف خاص است
+گفت: در هیچ اتفاقی نمی تواند دارنده حق تکثیر یا شرکت کنندگان را به عهده بگیرد
+هر گونه آسیب های مستقیم، غیر مستقیم، اتفاقی، ویژه، مثال یا در نتیجه
+(از جمله، اما محدود به، عرضه کالا یا خدمات جایگزین؛
+از دست دادن استفاده، داده یا سود، یا قطع کسب و کار، با این حال، باعث و
+هر نظریه ای از مسئولیت، چه در قرارداد، مسئولیت سخت یا
+(از جمله بی اعتنایی یا غیر این، به هر طریقی از استفاده از این
+نرم افزار حتی اگر از احتمال چنین آسیب هایی توصیه شود.
